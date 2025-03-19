@@ -104,7 +104,7 @@ with st.container():
     # Seção de Contato
     st.markdown('<h4 class="small-header">Contatos</h4>', unsafe_allow_html=True)
     st.write("""
-    - **Telefone**: [WhatsApp](https://wa.me/5592981401714) / (92) 9115-6181
+    - **Telefone**: [92 98140-1714 (Whatsapp)](https://wa.me/5592981401714) / (92) 9115-6181
     - **Email**: kassiomiller@gmail.com
     - **LinkedIn**: [Kassio Aquino](https://www.linkedin.com/in/kassio-aquino)
     """)
