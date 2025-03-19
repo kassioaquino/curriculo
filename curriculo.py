@@ -1,5 +1,13 @@
 import streamlit as st
 
+# Definindo configurações da página, incluindo o título da aba
+st.set_page_config(
+    page_title="Currículo Online - Kassio Aquino",  # Título da aba do navegador
+    page_icon=":guardsman:",  # Ícone da aba (opcional)
+    layout="centered",  # Layout da página
+    initial_sidebar_state="collapsed",  # Sidebar inicializada de forma compacta (opcional)
+)
+
 # Título da página
 st.markdown('<h2 class="small-header">Currículo Online - Kassio Aquino</h2>', unsafe_allow_html=True)
 
@@ -14,7 +22,7 @@ with st.container():
 
     # Seção de Habilidades Técnicas
     st.markdown('<h4 class="small-header">Habilidades Técnicas</h4>', unsafe_allow_html=True)
-    st.write("""
+    st.write(""" 
     - **Linguagens e Tecnologias:** Python, SQL, Automação de Processos, Banco de Dados (MySQL, SQL Server)
     - **Metodologias Ágeis:** Scrum, DevOps
     - **Versionamento de Código:** Git, GitHub
@@ -103,4 +111,4 @@ with st.container():
 
     # Rodapé
     st.write("---")
-    st.write("Currículo desenvolvido com Python")
+    st.write("Desenvolvido por Kassio Aquino, utilizando Python e Streamlit. Acesse meu currículo online.")
