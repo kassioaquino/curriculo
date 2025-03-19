@@ -12,10 +12,10 @@ st.set_page_config(
 st.markdown('<h2 class="small-header">Currículo Online</h2>', unsafe_allow_html=True)
 st.markdown('<h4 class="small-header">Kassio Ferreira Aquino</h4>', unsafe_allow_html=True)
 st.write("""
-**Bairro**: Parque Dez de Novembro
-**Telefone**: [92 98140-1714 (Whatsapp)](https://wa.me/5592981401714) / (92) 9115-6181
-**Email**: kassiomiller@gmail.com
-**LinkedIn**: [Kassio Aquino](https://www.linkedin.com/in/kassio-aquino)
+- **Bairro**: Parque Dez de Novembro
+- **Telefone**: [92 98140-1714 (Whatsapp)](https://wa.me/5592981401714) / (92) 9115-6181
+- **Email**: kassiomiller@gmail.com
+- **LinkedIn**: [Kassio Aquino](https://www.linkedin.com/in/kassio-aquino)
 """)
 
 # Criar uma "container" para organizar melhor o layout
