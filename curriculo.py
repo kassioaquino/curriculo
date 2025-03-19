@@ -3,7 +3,7 @@ import streamlit as st
 # Definindo configurações da página, incluindo o título da aba
 st.set_page_config(
     page_title="Currículo Online - Kassio Aquino",  # Título da aba do navegador
-    page_icon=":guardsman:",  # Ícone da aba (opcional)
+    page_icon=":bust_in_silhouette:",
     layout="centered",  # Layout da página
     initial_sidebar_state="collapsed",  # Sidebar inicializada de forma compacta (opcional)
 )
@@ -111,4 +111,4 @@ with st.container():
 
     # Rodapé
     st.write("---")
-    st.write("Desenvolvido por Kassio Aquino, utilizando Python e Streamlit. Acesse meu currículo online.")
+    st.write("Desenvolvido por Kassio Aquino, utilizando Python.")
