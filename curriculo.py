@@ -48,9 +48,6 @@ with st.container():
     - Implementação de testes automatizados e acompanhamento da qualidade em todas as etapas do processo.
     """)
 
-    # Espaçamento (pular uma linha)
-    st.markdown('<br>', unsafe_allow_html=True)
-    st.markdown('<br>', unsafe_allow_html=True)
     st.markdown('<h4 class="small-header">Analista de Desenvolvimento de Sistemas | Fóton Informática</h4>', unsafe_allow_html=True)
     st.write("Período: 07/2021 – 02/2022")
     st.write("""
