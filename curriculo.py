@@ -22,8 +22,7 @@ with st.container():
     # Seção de Resumo Profissional
     st.markdown('<h4 class="small-header">Resumo Profissional</h4>', unsafe_allow_html=True)
     st.write(""" 
-    Profissional com experiência em Python, SQL, automação de processos e qualidade de software. Atuei em ambientes ágeis (Scrum) e com foco em entrega de soluções eficientes. 
-    Busco a transição para a área de Análise de Dados, onde posso aplicar minhas habilidades em automação, modelagem de dados e transformar dados em insights valiosos para decisões estratégicas.
+    Profissional com experiência em **Python**, **SQL**, **automação de processos**, **qualidade de software** e **suporte técnico**. Atuei em ambientes ágeis (Scrum) e com foco em entrega de soluções eficientes. Busco novas oportunidades, não só na área de **TI**, mas também em áreas **administrativas**, **operacionais** e de **suporte**, onde minha experiência em **gestão de processos**, **soluções técnicas** e **melhoria de processos** possa agregar valor.
     """)
 
     # Seção de Habilidades Técnicas
@@ -35,6 +34,15 @@ with st.container():
     - **Automação de Testes:** Selenium, Robot Framework
     - **Ferramentas de Análise de Dados:** Excel Avançado
     - **Integração Contínua (CI/CD)**
+    """)
+
+    # Seção de Habilidades Transferíveis
+    st.markdown('<h4 class="small-header">Habilidades Transferíveis</h4>', unsafe_allow_html=True)
+    st.write("""
+    - **Gestão de Processos**: Experiência em otimização de processos internos, melhoria da eficiência e organização de operações.
+    - **Atendimento e Suporte**: Capacidade de fornecer suporte técnico e administrativo de qualidade, garantindo uma comunicação eficaz com as equipes.
+    - **Coordenação de Projetos**: Experiência em ambientes ágeis, com habilidades para coordenar e gerenciar projetos técnicos e operacionais.
+    - **Gestão de Inventário e Logística**: Experiência no gerenciamento de processos de estoque e operações logísticas.
     """)
 
     # Seção de Experiência Profissional
