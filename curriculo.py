@@ -33,7 +33,6 @@ with st.container():
     - **Versionamento de Código:** Git, GitHub
     - **Automação de Testes:** Selenium, Robot Framework
     - **Ferramentas de Análise de Dados:** Excel Avançado
-    - **Integração Contínua (CI/CD)**
     """)
 
     # Seção de Habilidades Transferíveis
@@ -43,6 +42,7 @@ with st.container():
     - **Atendimento e Suporte**: Capacidade de fornecer suporte técnico e administrativo de qualidade, garantindo uma comunicação eficaz com as equipes.
     - **Coordenação de Projetos**: Experiência em ambientes ágeis, com habilidades para coordenar e gerenciar projetos técnicos e operacionais.
     - **Gestão de Inventário e Logística**: Experiência no gerenciamento de processos de estoque e operações logísticas.
+    - **Pacote Office**: Conhecimento avançado em Excel, PowerPoint e Word, com ênfase em análise de dados, relatórios e apresentações.
     """)
 
     # Seção de Experiência Profissional
