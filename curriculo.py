@@ -12,7 +12,7 @@ st.set_page_config(
 st.markdown('<h2 class="small-header">Kassio Ferreira Aquino</h2>', unsafe_allow_html=True)
 st.write("""
 - **Bairro**: Parque Dez de Novembro
-- **Telefone**: [92 98140-1714 (Whatsapp)](https://wa.me/5592981401714) / (92) 9115-6181
+- **Telefone**: [92 98140-1714 (Whatsapp)](https://wa.me/5592981401714) / (92) 99115-6181
 - **Email**: kassiomiller@gmail.com
 - **LinkedIn**: [Kassio Aquino](https://www.linkedin.com/in/kassio-aquino)
 """)
