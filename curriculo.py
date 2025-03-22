@@ -36,7 +36,7 @@ if aba_selecionada == "Currículo":
         # Seção de Habilidades Técnicas
         st.markdown('<h4 class="small-header">Habilidades Técnicas</h4>', unsafe_allow_html=True)
         st.write(""" 
-        - **Linguagens e Tecnologias:** Python, SQL, Automação de Processos, Banco de Dados (MySQL, SQL Server)
+        - **Linguagens e Tecnologias:** Python, SQL, Automação de Processos, SGBD's (MySQL, SQL Server)
         - **Metodologias Ágeis:** Scrum, DevOps
         - **Versionamento de Código:** Git, GitHub
         - **Automação de Testes:** Selenium, Robot Framework
