@@ -130,9 +130,9 @@ elif aba_selecionada == "Carta de Apresentação":
     st.write("""
     Prezado(a) Recrutador(a),
     
-    Sou Kassio Ferreira Aquino, profissional com experiência em **Python**, **SQL**, **automação de processos**, e **qualidade de software**. Trabalhei em ambientes ágeis e sempre busquei implementar soluções que otimizem processos e entreguem resultados de forma eficiente. Minha trajetória inclui tanto a automação de processos técnicos quanto a gestão e melhoria de operações.
+    Sou Kassio Ferreira Aquino, profissional com experiência em **suporte em TI**, **desenvolvimento de software**, **automação de processos**, e **qualidade de software**. Trabalhei em ambientes ágeis e sempre busquei implementar soluções que otimizem processos e entreguem resultados de forma eficiente. Minha trajetória inclui tanto a automação de processos técnicos quanto a gestão e melhoria de operações.
     
-    Atualmente, estou buscando novas oportunidades não apenas na área de **TI**, mas também em setores **administrativos**, **operacionais** e **de suporte**. Acredito que minhas habilidades em **gestão de processos**, **automação** e **suporte técnico** podem agregar valor a sua organização, além de contribuir para o sucesso da equipe.
+    Atualmente, estou buscando novas oportunidades na área de **TI**. Acredito que minhas habilidades em **gestão de processos**, **automação** e **suporte técnico** podem agregar valor a sua organização, além de contribuir para o sucesso da equipe.
     
     Fico à disposição para mais detalhes e para um eventual bate-papo.
     
