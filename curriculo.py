@@ -30,7 +30,7 @@ if aba_selecionada == "Currículo":
         # Seção de Resumo Profissional
         st.markdown('<h4 class="small-header">Resumo Profissional</h4>', unsafe_allow_html=True)
         st.write(""" 
-        Profissional com experiência em **Python**, **SQL**, **automação de processos**, **qualidade de software** e **suporte técnico**. Atuei em ambientes ágeis (Scrum) e com foco em entrega de soluções eficientes. Busco novas oportunidades, não só na área de **TI**, mas também em áreas **administrativas**, **operacionais** e de **suporte**, onde minha experiência em **gestão de processos**, **soluções técnicas** e **melhoria de processos** possa agregar valor.
+        Profissional com experiência em **Python**, **SQL**, **automação de processos**, **qualidade de software** e **suporte técnico**. Atuei em ambientes ágeis (Scrum) e com foco em entrega de soluções eficientes. Busco novas oportunidades na área de **TI**, onde minha experiência em **gestão de processos**, **soluções técnicas** e **melhoria de processos** possa agregar valor.
         """)
 
         # Seção de Habilidades Técnicas
